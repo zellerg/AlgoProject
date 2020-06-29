@@ -1,0 +1,32 @@
+
+
+/*Here we are creating the visual of the reacte app, positioning the array container and bar at certain locations in the browser*/
+.array-container{
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+/*This css function called within the array-container which determines how the actual bars look*/
+.array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+    
+}
+/*Created some cool buttons that change color when you mouse over them, I picked some colors that compliment the color of the array bars*/
+.btn-group button {
+    background-color: #DA5F44;
+    border: 2px #DA5F44;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 20%;
+    display: inline;
+}
+.btn-group button:not(:last-child){
+    border-bottom: none;
+}
+
+.btn-group button:hover {
+    background-color: #E38671;
+}
