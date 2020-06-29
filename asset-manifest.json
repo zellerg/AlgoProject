@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlgoProject/static/css/main.26e2120c.chunk.css",
+    "main.js": "/AlgoProject/static/js/main.0f7d9d7a.chunk.js",
+    "main.js.map": "/AlgoProject/static/js/main.0f7d9d7a.chunk.js.map",
+    "runtime-main.js": "/AlgoProject/static/js/runtime-main.61bfec41.js",
+    "runtime-main.js.map": "/AlgoProject/static/js/runtime-main.61bfec41.js.map",
+    "static/js/2.1b5839bb.chunk.js": "/AlgoProject/static/js/2.1b5839bb.chunk.js",
+    "static/js/2.1b5839bb.chunk.js.map": "/AlgoProject/static/js/2.1b5839bb.chunk.js.map",
+    "index.html": "/AlgoProject/index.html",
+    "precache-manifest.28d27481fe52e9fdde4bb822ee3f86cf.js": "/AlgoProject/precache-manifest.28d27481fe52e9fdde4bb822ee3f86cf.js",
+    "service-worker.js": "/AlgoProject/service-worker.js",
+    "static/css/main.26e2120c.chunk.css.map": "/AlgoProject/static/css/main.26e2120c.chunk.css.map",
+    "static/js/2.1b5839bb.chunk.js.LICENSE.txt": "/AlgoProject/static/js/2.1b5839bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61bfec41.js",
+    "static/js/2.1b5839bb.chunk.js",
+    "static/css/main.26e2120c.chunk.css",
+    "static/js/main.0f7d9d7a.chunk.js"
+  ]
+}
